@@ -1,3 +1,8 @@
+## Update
+
+This gem has been updated to relax the jwt version requirement. We have a number of gems that depend on versions less that `2.0` initially enforced here.
+
+
 [![Gem Version](https://badge.fury.io/rb/omniauth-google-oauth2.svg)](https://badge.fury.io/rb/omniauth-google-oauth2)
 [![Build Status](https://travis-ci.org/zquestz/omniauth-google-oauth2.svg)](https://travis-ci.org/zquestz/omniauth-google-oauth2)
 
